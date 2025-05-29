@@ -7,7 +7,7 @@ const launchButton = null
 const confirmButton = null
 const cancelButton = null
 
-// B- MESSAGES
+// B- MESSAGEs
 const successMessage = null
 const failureMessage = null
 
